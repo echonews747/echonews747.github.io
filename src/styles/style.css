@@ -11,3 +11,13 @@ body{
     margin:0 auto;
     text-align:center;
 }
+#titleboxIngredients{
+    background-color:red;
+    margin: 30px;
+    border :2px solid white;
+}
+.listboxMethod{
+    background-color: yellowgreen;
+    margin: 35px;
+    border :1px dotted pink 
+}
