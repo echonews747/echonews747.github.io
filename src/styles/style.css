@@ -1,3 +1,13 @@
 h1 {
     color:green;
 }
+img{
+    width:250px;
+    height:auto;
+}
+
+body{
+    background-color:cyan;
+    margin:0 auto;
+    text-align:center;
+}
